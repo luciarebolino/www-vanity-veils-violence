@@ -39,6 +39,8 @@ From then on it opens like any other app.
 
 Or use the two arrows at the top left: **→** moves on to the next chapter, **←** goes back to the one before.
 
+<p align="center"><img src="arrows.png" alt="The two arrows at the top left of the www window, highlighted"></p>
+
 `www` reacts to the laptop itself: opening and closing the lid, tilting and turning it. This works best on a recent
 MacBook with Apple silicon; on other Macs the motion parts stay still.
 
