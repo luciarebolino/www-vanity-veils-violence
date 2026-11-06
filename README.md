@@ -18,7 +18,6 @@ Read more about the project: [akademie-solitude.de/en/www-vanity-veils-violence]
 - **Apple silicon** (M1 and later): `www-mac-arm64.zip`
 - **Intel**: `www-mac-intel.zip`
 
-Not sure which Mac you have? Apple menu → About This Mac: "Chip: Apple M…" is Apple silicon, "Processor: Intel" is Intel.
 
 ## Opening it the first time
 
