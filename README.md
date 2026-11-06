@@ -4,10 +4,12 @@
 
 A browser in three chapters by **Lucia Rebolino**, made during the 22nd Web Residency
 »[Ignore All Previous Instructions](https://www.akademie-solitude.de/de/postproject/web-residencies/calls-2026/ignore-all-previous-instructions/)«
-at [Akademie Schloss Solitude](https://www.akademie-solitude.de/de/www-vanity-veils-violence/), 2026.
+at Akademie Schloss Solitude, 2026.
 
 `www` only browses `.ai`, the country code of Anguilla, an island in the Caribbean that earns a large part of its
 income from selling its two letters to the AI industry.
+
+Read more about the project: [akademie-solitude.de/en/www-vanity-veils-violence](https://www.akademie-solitude.de/en/www-vanity-veils-violence/)
 
 ## Download
 
@@ -31,18 +33,28 @@ From then on it opens like any other app.
 
 ## Navigating
 
-*(to be written)*
-
-- **Vanity** — Google's search box. Whatever you type is steered towards `.ai`. Press Enter and the names start.
-- **Veils** — press Enter again: the search results.
-- **Violence** — the sidebar button (▣▾) at the top left: the corridor.
-
-Or use the two arrows at the top left: **→** moves on to the next chapter, **←** goes back to the one before.
+This browser-based essay is an experiment: a spell that reassembles Google's browser through the two letters of a
+country-code web domain.
 
 <p align="center"><img src="arrows.png" alt="The two arrows at the top left of the www window, highlighted"></p>
 
-`www` reacts to the laptop itself: opening and closing the lid, tilting and turning it. This works best on a recent
-MacBook with Apple silicon; on other Macs the motion parts stay still.
+The three chapters, **Vanity**, **Veils** and **Violence**, are navigated through their visual architecture with the
+two arrows (above): **→** moves on to the next chapter, **←** goes back to the one before. Tilting and turning the
+laptop uses the Mac's own sensors to set off the perspective view and its movement, unveiling the violence behind
+the vanity of the web domains themselves.
+
+The full essay is injected into the **Veils** chapter, inside Google's own HTML, where the complete research can be
+read.
+
+More on the research in the Are.na channel: [are.na/lucia-rebolino/www-vanity-veil-violence](https://www.are.na/lucia-rebolino/www-vanity-veil-violence)
+
+### Step by step
+
+- **Vanity**: Google's search box. Whatever you type is steered towards `.ai`. Press Enter (or →) and the names start.
+- **Veils**: press Enter again (or →): the search results, with the essay.
+- **Violence**: → again, or the sidebar button (▣▾) at the top left: the corridor.
+
+The movement works best on a recent MacBook with Apple silicon; on other Macs the motion parts stay still.
 
 ## Credits
 
