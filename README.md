@@ -47,15 +47,3 @@ The full essay is injected into the **Veils** chapter, inside Google's own HTML,
 read.
 
 More on the research in the Are.na channel: [are.na/lucia-rebolino/www-vanity-veil-violence](https://www.are.na/lucia-rebolino/www-vanity-veil-violence)
-
-### Step by step
-
-- **Vanity**: Google's search box. Whatever you type is steered towards `.ai`. Press Enter (or →) and the names start.
-- **Veils**: press Enter again (or →): the search results, with the essay.
-- **Violence**: → again, or the sidebar button (▣▾) at the top left: the corridor.
-
-The movement works best on a recent MacBook with Apple silicon; on other Macs the motion parts stay still.
-
-## Credits
-
-See [CREDITS.md](CREDITS.md).
